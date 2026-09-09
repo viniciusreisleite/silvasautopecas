@@ -7,7 +7,7 @@ from playwright.sync_api import sync_playwright
 
 PERFIS = ['silvasautopecas']
 PERFIL = 'silvasautopecas'
-BADGE_TEXTO = 'Silva's Auto Peças'
+BADGE_TEXTO = "Silva's Auto Peças"
 COR_TEMA = '#f59e0b'
 TOTAL_MIDIAS = 12
 COOKIES_FILE = "cookies.txt"
